@@ -15,26 +15,26 @@ void FillArray (string[] arr)
 FillArray(array);
 Console.WriteLine("Initial array: [" + string.Join(", ", array) + "]");
 
-string[] RefillArray(string[] arr2)
+string[] SelectionArray(string[] arr2)
 {
     int k = 0;
     for (int j = 0; j < arr2.Length; j++)
     {
         if (arr2[j].Length <= 3) k++;
     }
-    string[] removeArr = new string[k];
+    string[] moveArray = new string[k];
     int l = 0;
         for (int i = 0; i < arr2.Length; i++)
         {
             if (arr2[i].Length <= 3)
             {
-                removeArr[l] = arr2[i];
+                moveArray[l] = arr2[i];
                 l++;
             }
         }
-    return removeArr;
+    return moveArray;
 }
 
-Console.WriteLine("Output array: [" + string.Join(", ", RefillArray(array)) + "]");
+Console.WriteLine("Output array: [" + string.Join(", ", SelectionArray(array)) + "]");
 
 
