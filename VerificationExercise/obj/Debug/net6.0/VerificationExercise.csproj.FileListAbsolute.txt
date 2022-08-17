@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\bin\Debug\net6.0\VerificationExercise.exe
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\bin\Debug\net6.0\VerificationExercise.deps.json
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\bin\Debug\net6.0\VerificationExercise.runtimeconfig.json
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\bin\Debug\net6.0\VerificationExercise.dll
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\bin\Debug\net6.0\VerificationExercise.pdb
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.AssemblyInfo.cs
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.dll
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\refint\VerificationExercise.dll
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.pdb
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\VerificationExercise.genruntimeconfig.cache
+C:\Users\Алина\Desktop\VerificationWork\VerificationExercise\obj\Debug\net6.0\ref\VerificationExercise.dll
